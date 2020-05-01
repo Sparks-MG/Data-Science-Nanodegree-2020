@@ -13,7 +13,7 @@ For this project, I was  interestested in Airbnb data for Berlin which was scrap
 * Is there a correlation between price of a listing and user rating?
 
 ### Dataset
-The dataset was originally collected by **Murray Cox' Inside Airbnb project**  by compiling publically aviable data fo **Berlin, Germany at  18. February 2020**: http://insideairbnb.com/get-the-data.html .
+The dataset was originally collected by **Murray Cox' Inside Airbnb project**  by compiling publically aviable data for **Berlin, Germany at  18. February 2020**: http://insideairbnb.com/get-the-data.html .
 The data is avaible under a Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication" license.
 
 The CSV files come in **two variants**, a **detailed variant** (compressed in an gz archive with more columns) and a smaller less-detailed variant. We will focuse on the detailed variant, thus only that data is provided here. To run the main file, you need to unpack the archives first.
