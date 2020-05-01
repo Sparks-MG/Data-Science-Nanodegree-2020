@@ -4,7 +4,7 @@
 
 
 ### Motivation
-This project is part of Udacity's Nanodegree in Data Science and will be implemented via the programming Python following the CRISP-DM methodology. The results are published in an accompanying blog on medium: https://medium.com/@martin.gleditzsch/berlin-or-berlout-1eee1e8ffb43?sk=cc2e9e8ba090abc3c0ce52dc97acacb0.
+This project is part of Udacity's Nanodegree in Data Science and will be implemented via the programming language Python following the CRISP-DM methodology. The results are published in an accompanying blog on medium: https://medium.com/@martin.gleditzsch/berlin-or-berlout-1eee1e8ffb43?sk=cc2e9e8ba090abc3c0ce52dc97acacb0.
 
 For this project, I was  interestested in Airbnb data for Berlin which was scrapped in February 2020 to **answer the following questions:**
 * How expensive is an overnight stay in Berlin? What are minimum, average, typical or maximum prices?
